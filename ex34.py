@@ -1,0 +1,1 @@
+#reading the gicen content on the indexes of list
